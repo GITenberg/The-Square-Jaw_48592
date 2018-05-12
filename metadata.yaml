@@ -1,4 +1,8 @@
 _repo: The-Square-Jaw_48592
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48592-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Tudesq, André
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44871'
     url: http://www.gutenberg.org/2009/agents/44871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48592#The-Square-Jaw
 gutenberg_issued: '2015-03-27'
 gutenberg_type: Text
 identifiers:
